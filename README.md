@@ -1,13 +1,16 @@
-<div>
-  <a href="https://github.com/wladsonrodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wladsonrodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladsonrodrigues&layout=compact&langs_count=6&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-</div>
+    <h1 aling="center"> Sobre mim</h1>
+
+    <ul align="left">
+
+        <li>Apaixonado por programação 🤓, uma pessoa que ama animais🐶, Adora tecnologia em geral 💻. !</li>
+
+        <li> Estudante do <a href="https://github.com/devemdobro" target="_blank">DevQuest</a>. 👾</li>
+
+        <li>Atualmente querendo me especializar em Front End (<strong>Com sonho de ser FullStack</strong>) e possuo conhecimento em <strong>HTML, CSS e JV</strong>.📂</li>
+
+        <li>Em horas vagas costumo jogar <a href="https://playvalorant.com/pt-br/" target="_blank"Valorant>Valorant</a> e amo games de <strong>Pixel Art</strong>.🚀</li>
+
+    </ul>
  
  <br>
  
