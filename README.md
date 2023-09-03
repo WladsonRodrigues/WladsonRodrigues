@@ -3,7 +3,7 @@
        <li>Apaixonado por programação 🤓, Uma pessoa que ama animais 🐶 e Adora tecnologia em geral. 💻</li>
        <li>Estudante do <a href="https://github.com/devemdobro" target="_blank">DevQuest</a>. 👾</li>
        <li>Atualmente querendo me especializar em Front End (<strong>Com sonho de ser FullStack</strong>) e possuo conhecimentos de <strong>HTML, CSS e JV</strong>. 📂</li>
-       <li>Em horas vagas além de codar também costumo jogar <a href="https://playvalorant.com/pt-br/ target="_blank">Valorant</a>e também games de PixelArt. 🎮</li>
+       <li>Em horas vagas além de codar também costumo jogar <a href="https://playvalorant.com/pt-br/ target="_blank">Valorant</a> e também games de PixelArt. 🎮</li>
  </ul>
 
  
