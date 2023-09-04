@@ -28,7 +28,7 @@
   <a href="https://www.youtube.com/@DesenvolvedorWlad" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"> </a>
   <a href="https://www.instagram.com/wlad_sora/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>                 
   <a href = "mailto:wladsonrp@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" target="_blank"> </a>
-  <a href="www.linkedin.com/in/dev-wladson" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/wladson-rodrigues-9540611b8/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 
 <h1 align="center">Estatísticas</h1>
 
