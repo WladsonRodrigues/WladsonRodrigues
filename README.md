@@ -1,4 +1,4 @@
-<a href="https://github.com/wladsonrodrigues"> ![Black White Minimalist Boho Grid Background Page Border A4 (Landscape)](https://github.com/wladsonrodrigues/WladsonRodrigues/assets/127909415/9a6832fa-9e23-4734-bdb6-79183221012b) </a>
+<a href="https://github.com/wladsonrodrigues"> ![image-from-rawpixel-id-2853118-original](https://github.com/wladsonrodrigues/WladsonRodrigues/assets/127909415/8fac9098-a7ff-4176-abe6-c155e6cd5e2c) </a>
 
 <h1 align="center">Sobre mim</h1>
    <ul>
