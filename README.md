@@ -1,3 +1,5 @@
+<a href="https://github.com/wladsonrodrigues"> ![Black White Minimalist Boho Grid Background Page Border A4 (Landscape)](https://github.com/wladsonrodrigues/WladsonRodrigues/assets/127909415/9a6832fa-9e23-4734-bdb6-79183221012b) </a>
+
 <h1 align="center">Sobre mim</h1>
    <ul>
        <li>Apaixonado por programação 🤓, Uma pessoa que ama animais 🐶 e Adora tecnologia em geral. 💻</li>
@@ -25,8 +27,21 @@
 <div>
   <a href="https://www.youtube.com/@DesenvolvedorWlad" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"> </a>
   <a href="https://www.instagram.com/wlad_sora/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>                 
-  <a href = "mailto:wladsonrp@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"> </a>
+  <a href = "mailto:wladsonrp@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" target="_blank"> </a>
   <a href="www.linkedin.com/in/dev-wladson" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+
+<h1 align="center">Estatísticas</h1>
+
+<div>
+  <a href="https://github.com/wladsonrodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wladsonrodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladsonrodrigues&layout=compact&langs_count=6&theme=radical"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+</div>
  
   ![Animação de cobra](https://github.com/wladsonrodrigues/WladsonRodrigues/blob/output/github-contribution-grid-snake.svg)
 
